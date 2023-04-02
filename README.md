@@ -1,5 +1,4 @@
 # Replicate a one page responsive website with one breaking point.
-*Repository: exam-2021-07-20*
 
 ## Instructions
 - [Design](#design)
